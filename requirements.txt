@@ -16,4 +16,5 @@ numpy<2.0
 evidently==0.2.8
 catboost
 python-dotenv
+category-encoders==2.5.1.post0
 -e .
